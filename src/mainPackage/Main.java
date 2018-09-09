@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Test Commit");
 		System.out.println("Design of Data Structure");
 		System.out.println("20130895 Sung Ho-Joon");
+		System.out.println("Sunday");
 	}
 
 }
